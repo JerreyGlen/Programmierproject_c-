@@ -1,0 +1,16 @@
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\Chat2\bin\Debug\Chat2.exe.config
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\Chat2\bin\Debug\Chat2.exe
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\Chat2\bin\Debug\Chat2.pdb
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\Chat2\obj\Debug\Chat2.csprojAssemblyReference.cache
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\Chat2\obj\Debug\Chat2.Properties.Resources.resources
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\Chat2\obj\Debug\Chat2.csproj.GenerateResource.cache
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\Chat2\obj\Debug\Chat2.csproj.CoreCompileInputs.cache
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\Chat2\obj\Debug\Chat2.exe
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\Chat2\obj\Debug\Chat2.pdb
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\Chat2\bin\Debug\Interfaces.dll
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\Chat2\bin\Debug\NetworkingDummy.dll
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\Chat2\bin\Debug\Interfaces.pdb
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\Chat2\bin\Debug\NetworkingDummy.pdb
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\Chat2\obj\Debug\Chat2.ChatWindows.resources
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\Chat2\obj\Debug\Chat2.csproj.CopyComplete
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\Chat2\bin\Debug\SimpleTCP.dll

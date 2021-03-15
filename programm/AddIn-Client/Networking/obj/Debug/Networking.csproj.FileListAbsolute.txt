@@ -1,0 +1,12 @@
+D:\Progpro\grp10\programm\AddIn-Client\Networking\bin\Debug\Networking.dll
+D:\Progpro\grp10\programm\AddIn-Client\Networking\bin\Debug\Networking.pdb
+D:\Progpro\grp10\programm\AddIn-Client\Networking\bin\Debug\Interfaces.dll
+D:\Progpro\grp10\programm\AddIn-Client\Networking\bin\Debug\Interfaces.pdb
+D:\Progpro\grp10\programm\AddIn-Client\Networking\obj\Debug\Networking.csprojAssemblyReference.cache
+D:\Progpro\grp10\programm\AddIn-Client\Networking\obj\Debug\Networking.csproj.ResolveComReference.cache
+D:\Progpro\grp10\programm\AddIn-Client\Networking\obj\Debug\Networking.csproj.CoreCompileInputs.cache
+D:\Progpro\grp10\programm\AddIn-Client\Networking\obj\Debug\Networking.csproj.CopyComplete
+D:\Progpro\grp10\programm\AddIn-Client\Networking\obj\Debug\Networking.dll
+D:\Progpro\grp10\programm\AddIn-Client\Networking\obj\Debug\Networking.pdb
+D:\Progpro\grp10\programm\AddIn-Client\Networking\bin\Debug\Newtonsoft.Json.dll
+D:\Progpro\grp10\programm\AddIn-Client\Networking\bin\Debug\Newtonsoft.Json.xml

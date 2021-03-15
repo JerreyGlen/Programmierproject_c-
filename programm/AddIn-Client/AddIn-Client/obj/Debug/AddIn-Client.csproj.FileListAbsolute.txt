@@ -1,0 +1,10 @@
+D:\Progpro\grp10\programm\AddIn-Client\AddIn-Client\bin\Debug\AddIn-Client.dll
+D:\Progpro\grp10\programm\AddIn-Client\AddIn-Client\bin\Debug\AddIn-Client.pdb
+D:\Progpro\grp10\programm\AddIn-Client\AddIn-Client\obj\Debug\AddIn-Client.csprojAssemblyReference.cache
+D:\Progpro\grp10\programm\AddIn-Client\AddIn-Client\obj\Debug\AddIn-Client.csproj.CoreCompileInputs.cache
+D:\Progpro\grp10\programm\AddIn-Client\AddIn-Client\obj\Debug\AddIn-Client.dll
+D:\Progpro\grp10\programm\AddIn-Client\AddIn-Client\obj\Debug\AddIn-Client.pdb
+D:\Progpro\grp10\programm\AddIn-Client\AddIn-Client\obj\Debug\Interop.AddinLoaderLib.dll
+D:\Progpro\grp10\programm\AddIn-Client\AddIn-Client\obj\Debug\Interop.InventorApprentice.dll
+D:\Progpro\grp10\programm\AddIn-Client\AddIn-Client\obj\Debug\Interop.InventorUtilities.dll
+D:\Progpro\grp10\programm\AddIn-Client\AddIn-Client\obj\Debug\AddIn-Client.csproj.ResolveComReference.cache

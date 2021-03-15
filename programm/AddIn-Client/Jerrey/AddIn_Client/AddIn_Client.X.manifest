@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="AddIn_Client" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{bc64c9d9-d8e7-4103-8657-7a81ca98a92f}" progid="AddIn_Client.StandardAddInServer" threadingModel="Both" name="AddIn_Client.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="AddIn_Client.dll" hashalg="SHA1"></file>
+
+</assembly>

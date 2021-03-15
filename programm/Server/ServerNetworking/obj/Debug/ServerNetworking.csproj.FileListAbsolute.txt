@@ -1,0 +1,9 @@
+D:\Progpro\grp10\programm\Server\ServerNetworking\bin\Debug\ServerNetworking.dll
+D:\Progpro\grp10\programm\Server\ServerNetworking\bin\Debug\ServerNetworking.pdb
+D:\Progpro\grp10\programm\Server\ServerNetworking\bin\Debug\NetworkingLibrary.dll
+D:\Progpro\grp10\programm\Server\ServerNetworking\bin\Debug\NetworkingLibrary.pdb
+D:\Progpro\grp10\programm\Server\ServerNetworking\obj\Debug\ServerNetworking.csprojAssemblyReference.cache
+D:\Progpro\grp10\programm\Server\ServerNetworking\obj\Debug\ServerNetworking.csproj.CoreCompileInputs.cache
+D:\Progpro\grp10\programm\Server\ServerNetworking\obj\Debug\ServerNetworking.csproj.CopyComplete
+D:\Progpro\grp10\programm\Server\ServerNetworking\obj\Debug\ServerNetworking.dll
+D:\Progpro\grp10\programm\Server\ServerNetworking\obj\Debug\ServerNetworking.pdb

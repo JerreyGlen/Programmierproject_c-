@@ -1,0 +1,15 @@
+D:\Progpro\grp10\programm\AddIn-Client\GUI\bin\Debug\GUI.dll
+D:\Progpro\grp10\programm\AddIn-Client\GUI\bin\Debug\GUI.pdb
+D:\Progpro\grp10\programm\AddIn-Client\GUI\bin\Debug\Interfaces.dll
+D:\Progpro\grp10\programm\AddIn-Client\GUI\bin\Debug\Networking.dll
+D:\Progpro\grp10\programm\AddIn-Client\GUI\bin\Debug\Interfaces.pdb
+D:\Progpro\grp10\programm\AddIn-Client\GUI\bin\Debug\Networking.pdb
+D:\Progpro\grp10\programm\AddIn-Client\GUI\obj\Debug\Chat.csprojAssemblyReference.cache
+D:\Progpro\grp10\programm\AddIn-Client\GUI\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+D:\Progpro\grp10\programm\AddIn-Client\GUI\obj\Debug\Chat.csproj.CopyComplete
+D:\Progpro\grp10\programm\AddIn-Client\GUI\obj\Debug\GUI.dll
+D:\Progpro\grp10\programm\AddIn-Client\GUI\obj\Debug\GUI.pdb
+D:\Progpro\grp10\programm\AddIn-Client\GUI\bin\Debug\NetworkingDummy.dll
+D:\Progpro\grp10\programm\AddIn-Client\GUI\bin\Debug\NetworkingDummy.pdb
+D:\Progpro\grp10\programm\AddIn-Client\GUI\obj\Debug\GUI.ChatWindows.resources
+D:\Progpro\grp10\programm\AddIn-Client\GUI\obj\Debug\Chat.csproj.GenerateResource.cache

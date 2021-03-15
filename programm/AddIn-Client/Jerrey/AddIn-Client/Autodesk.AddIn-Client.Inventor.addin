@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 25.0-->
+  <ClassId>{8b917585-acbf-4f84-8fed-f60169342570}</ClassId>
+  <ClientId>{8b917585-acbf-4f84-8fed-f60169342570}</ClientId>
+  <DisplayName>AddIn_Client</DisplayName>
+  <Description>AddIn_Client</Description>
+  <Assembly>AddIn_Client.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>24..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>

@@ -1,0 +1,16 @@
+D:\Progpro\grp10\programm\AddIn-Client\Synchronisation\bin\Debug\Synchronisation.dll
+D:\Progpro\grp10\programm\AddIn-Client\Synchronisation\bin\Debug\Synchronisation.pdb
+D:\Progpro\grp10\programm\AddIn-Client\Synchronisation\obj\Debug\Synchronisation.csprojAssemblyReference.cache
+D:\Progpro\grp10\programm\AddIn-Client\Synchronisation\obj\Debug\Synchronisation.csproj.CoreCompileInputs.cache
+D:\Progpro\grp10\programm\AddIn-Client\Synchronisation\obj\Debug\Synchronisation.dll
+D:\Progpro\grp10\programm\AddIn-Client\Synchronisation\obj\Debug\Synchronisation.pdb
+D:\Progpro\grp10\programm\AddIn-Client\Synchronisation\bin\Debug\Interfaces.dll
+D:\Progpro\grp10\programm\AddIn-Client\Synchronisation\bin\Debug\Networking.dll
+D:\Progpro\grp10\programm\AddIn-Client\Synchronisation\bin\Debug\Interfaces.pdb
+D:\Progpro\grp10\programm\AddIn-Client\Synchronisation\bin\Debug\Networking.pdb
+D:\Progpro\grp10\programm\AddIn-Client\Synchronisation\obj\Debug\Synchronisation.csproj.CopyComplete
+D:\Progpro\grp10\programm\AddIn-Client\Synchronisation\bin\Debug\NetworkingDummy.dll
+D:\Progpro\grp10\programm\AddIn-Client\Synchronisation\bin\Debug\NetworkingDummy.pdb
+D:\Progpro\grp10\programm\AddIn-Client\Synchronisation\bin\Debug\SimpleTCP.dll
+D:\Progpro\grp10\programm\AddIn-Client\Synchronisation\bin\Debug\Newtonsoft.Json.dll
+D:\Progpro\grp10\programm\AddIn-Client\Synchronisation\bin\Debug\Newtonsoft.Json.xml

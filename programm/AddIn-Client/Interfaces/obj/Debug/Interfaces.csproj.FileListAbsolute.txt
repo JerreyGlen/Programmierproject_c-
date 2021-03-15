@@ -1,0 +1,6 @@
+D:\Progpro\grp10\programm\AddIn-Client\Interfaces\obj\Debug\Interfaces.csproj.ResolveComReference.cache
+D:\Progpro\grp10\programm\AddIn-Client\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\Progpro\grp10\programm\AddIn-Client\Interfaces\bin\Debug\Interfaces.dll
+D:\Progpro\grp10\programm\AddIn-Client\Interfaces\bin\Debug\Interfaces.pdb
+D:\Progpro\grp10\programm\AddIn-Client\Interfaces\obj\Debug\Interfaces.dll
+D:\Progpro\grp10\programm\AddIn-Client\Interfaces\obj\Debug\Interfaces.pdb

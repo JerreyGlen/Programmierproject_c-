@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "..\Interfaces\Interfaces.csproj", "{8EFE1ABB-8453-4EB7-B9AD-6B412CD1E793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserpointerDummy", "LaserpointerDummy\LaserpointerDummy.csproj", "{DF8E5127-7FF2-40DA-8A1E-606234E08D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkingDummy", "NetworkingDummy\NetworkingDummy.csproj", "{342DD75E-84D4-4DA6-AFE7-950537BDE1D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streaming", "..\Streaming\Streaming.csproj", "{111F2DFF-A48F-4AE3-B00E-0D548862D277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{70946E87-94CD-4E6E-A211-F4A673340602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddIn_Client", "AddIn_Client\AddIn_Client.csproj", "{7F9960BC-A041-4A67-81B1-C951F1108563}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Applikation", "Applikation\Applikation.csproj", "{15861CA2-1274-4F6A-B36D-95EC68077A50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EFE1ABB-8453-4EB7-B9AD-6B412CD1E793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFE1ABB-8453-4EB7-B9AD-6B412CD1E793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFE1ABB-8453-4EB7-B9AD-6B412CD1E793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFE1ABB-8453-4EB7-B9AD-6B412CD1E793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF8E5127-7FF2-40DA-8A1E-606234E08D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8E5127-7FF2-40DA-8A1E-606234E08D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8E5127-7FF2-40DA-8A1E-606234E08D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8E5127-7FF2-40DA-8A1E-606234E08D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342DD75E-84D4-4DA6-AFE7-950537BDE1D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342DD75E-84D4-4DA6-AFE7-950537BDE1D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342DD75E-84D4-4DA6-AFE7-950537BDE1D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342DD75E-84D4-4DA6-AFE7-950537BDE1D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111F2DFF-A48F-4AE3-B00E-0D548862D277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111F2DFF-A48F-4AE3-B00E-0D548862D277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111F2DFF-A48F-4AE3-B00E-0D548862D277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111F2DFF-A48F-4AE3-B00E-0D548862D277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70946E87-94CD-4E6E-A211-F4A673340602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70946E87-94CD-4E6E-A211-F4A673340602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70946E87-94CD-4E6E-A211-F4A673340602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70946E87-94CD-4E6E-A211-F4A673340602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F9960BC-A041-4A67-81B1-C951F1108563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9960BC-A041-4A67-81B1-C951F1108563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F9960BC-A041-4A67-81B1-C951F1108563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F9960BC-A041-4A67-81B1-C951F1108563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15861CA2-1274-4F6A-B36D-95EC68077A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15861CA2-1274-4F6A-B36D-95EC68077A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15861CA2-1274-4F6A-B36D-95EC68077A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15861CA2-1274-4F6A-B36D-95EC68077A50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FE84FA2-5F34-461C-BCC3-9C3AF210EBC9}
+	EndGlobalSection
+EndGlobal

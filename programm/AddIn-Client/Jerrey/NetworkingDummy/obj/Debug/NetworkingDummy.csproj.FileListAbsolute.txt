@@ -1,0 +1,6 @@
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\NetworkingDummy\bin\Debug\NetworkingDummy.dll
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\NetworkingDummy\bin\Debug\NetworkingDummy.pdb
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\NetworkingDummy\obj\Debug\NetworkingDummy.csprojAssemblyReference.cache
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\NetworkingDummy\obj\Debug\NetworkingDummy.csproj.CoreCompileInputs.cache
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\NetworkingDummy\obj\Debug\NetworkingDummy.dll
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\NetworkingDummy\obj\Debug\NetworkingDummy.pdb

@@ -1,0 +1,6 @@
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\LaserpointerDummy\bin\Debug\LaserpointerDummy.dll
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\LaserpointerDummy\bin\Debug\LaserpointerDummy.pdb
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\LaserpointerDummy\obj\Debug\LaserpointerDummy.csprojAssemblyReference.cache
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\LaserpointerDummy\obj\Debug\LaserpointerDummy.csproj.CoreCompileInputs.cache
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\LaserpointerDummy\obj\Debug\LaserpointerDummy.dll
+D:\Progpro\grp10\programm\AddIn-Client\Jerrey\LaserpointerDummy\obj\Debug\LaserpointerDummy.pdb

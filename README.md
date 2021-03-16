@@ -1,7 +1,8 @@
 # Programmierproject_c-sharp
 Kooperatives Design
 Zwei Leute können durch Inventor zusammen arbeiten. Der eine, der Moderator, kann sein Bildschirm dem ZUschauer teilen und der Zuschauer kann
-einen Laserpointer benutzen, um dem Moderator genau was auf seinem Bildschirm. Das heißt, der Moderator
+einen Laserpointer benutzen, um dem Moderator genau was auf seinem Bildschirm zu zeigen,zum beispiel wenn der Zuschauer verstehen will, warum was irgendwo und nicht da
+steht. Das heißt, der Moderator
 kann sehen, wohin der Moderator geklickt und demzufolge seine Sorge verstehen.
 Der ZUschauer kann Moderatorrechte beantragen. Die beiden kommunizieren durch einen Chat.
 
